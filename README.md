@@ -2,6 +2,7 @@
 
 説明：  
 任意のファイルをハッシュ化された一意のファイル名に変更します。  
+複数のファイルを配置すれば一括で変更できます。  
 
 使い方  
 1: create_database.py を実行してデータベースを作成する  
@@ -14,6 +15,7 @@
   
 Description:  
 You can make any filenames hashed to make unique filenames.  
+If you put multiple files, you can change it all at once.
   
 How to use  
 1: Create database executing create_database.py  
